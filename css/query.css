@@ -1,0 +1,13 @@
+@media screen and (max-width: 768px) {
+    .container {
+        max-width: 100%;
+        margin: auto;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .card {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
